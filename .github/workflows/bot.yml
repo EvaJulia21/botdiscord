@@ -1,0 +1,27 @@
+name: Run Discord Bot at 7 AM
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # Runs at 12:00 UTC (7 AM Peru Time)
+  workflow_dispatch:  # Allows manual start
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Discord Bot
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+        run: python DISCORDBOT-try2.py
