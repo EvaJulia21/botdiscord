@@ -1,0 +1,5230 @@
+[
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-809a-b199-de05755bda56",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": null
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final ",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": null
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280809ab199de05755bda56",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280809ab199de05755bda56"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8023-8e2c-de1b59f7e375",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": null
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final ",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": null
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080238e2cde1b59f7e375",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080238e2cde1b59f7e375"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80cf-9d6e-ed72c689d2dd",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paleta de colores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paleta de colores",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080cf9d6eed72c689d2dd",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080cf9d6eed72c689d2dd"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80fd-888c-c6b7ba7f69c6",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Construcci\u00f3n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Construcci\u00f3n",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080fd888cc6b7ba7f69c6",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080fd888cc6b7ba7f69c6"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80eb-a85f-fd54e37af1ee",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manos",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080eba85ffd54e37af1ee",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080eba85ffd54e37af1ee"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-802e-9fdb-c42fa93d5b7a",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lipsync",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lipsync",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280802e9fdbc42fa93d5b7a",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280802e9fdbc42fa93d5b7a"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80a8-87c6-ddd79e1b9f24",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080a887c6ddd79e1b9f24",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080a887c6ddd79e1b9f24"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-800b-922f-d2b43aed447f",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-22",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ABUELA TORI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ABUELA TORI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280800b922fd2b43aed447f",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280800b922fd2b43aed447f"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-803f-a00f-f4f38d23fd98",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paleta de colores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paleta de colores",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280803fa00ff4f38d23fd98",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280803fa00ff4f38d23fd98"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80a2-9237-e99a79d54f1d",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Construcci\u00f3n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Construcci\u00f3n",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080a29237e99a79d54f1d",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080a29237e99a79d54f1d"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80a2-ad70-f57936d04a02",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manos",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080a2ad70f57936d04a02",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080a2ad70f57936d04a02"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8031-8662-f0218d99797b",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lipsync",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lipsync",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080318662f0218d99797b",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080318662f0218d99797b"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8092-84c3-dab32d0f10ad",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paleta de colores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paleta de colores",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280809284c3dab32d0f10ad",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280809284c3dab32d0f10ad"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80be-8ac5-ca1d97687034",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Construcci\u00f3n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Construcci\u00f3n",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080be8ac5ca1d97687034",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080be8ac5ca1d97687034"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-808e-b26e-dafb7ac22f5b",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manos",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280808eb26edafb7ac22f5b",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280808eb26edafb7ac22f5b"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8039-a71a-df51b38dd6c5",
+    "created_time": "2025-03-12T18:04:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lipsync",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lipsync",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808039a71adf51b38dd6c5",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808039a71adf51b38dd6c5"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80c7-9ce8-e5c432c8a74c",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paleta de colores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paleta de colores",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080c79ce8e5c432c8a74c",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080c79ce8e5c432c8a74c"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80ae-bb29-c0d4de9e7cfe",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Construcci\u00f3n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Construcci\u00f3n",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080aebb29c0d4de9e7cfe",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080aebb29c0d4de9e7cfe"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8013-a5a8-c958537332dd",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manos",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808013a5a8c958537332dd",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808013a5a8c958537332dd"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80de-ac3d-ca67538752ac",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-30",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lipsync",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lipsync",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080deac3dca67538752ac",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080deac3dca67538752ac"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8019-85f3-e6902eb84382",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Paleta de colores",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Paleta de colores",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280801985f3e6902eb84382",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280801985f3e6902eb84382"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-807b-8d09-f87f7967c037",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Construcci\u00f3n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Construcci\u00f3n",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280807b8d09f87f7967c037",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280807b8d09f87f7967c037"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80c0-84d1-dd00dec2d882",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Manos",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Manos",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080c084d1dd00dec2d882",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080c084d1dd00dec2d882"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80d1-92c4-c7f70f33dbd3",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lipsync",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lipsync",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080d192c4c7f70f33dbd3",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080d192c4c7f70f33dbd3"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80f1-944d-d491a61a00b4",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-14",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080f1944dd491a61a00b4",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080f1944dd491a61a00b4"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8059-8808-c0a71f7563fe",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-23",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080598808c0a71f7563fe",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080598808c0a71f7563fe"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-806a-adf4-f12cd99aada0",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280806aadf4f12cd99aada0",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280806aadf4f12cd99aada0"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8036-b82b-c1861c0ef372",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MAM\u00c1 ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MAM\u00c1 ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808036b82bc1861c0ef372",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808036b82bc1861c0ef372"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8016-876c-cbfeec56bc90",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-11",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808016876ccbfeec56bc90",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808016876ccbfeec56bc90"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80c2-a211-d6e6cffbe6e5",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-11",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-04-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080c2a211d6e6cffbe6e5",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080c2a211d6e6cffbe6e5"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8077-a907-ec73268ad9d2",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final ",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808077a907ec73268ad9d2",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808077a907ec73268ad9d2"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-801c-88c2-d9a643ea1d2e",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-04",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Traje Perro Rumi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Traje Perro Rumi",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-01",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280801c88c2d9a643ea1d2e",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280801c88c2d9a643ea1d2e"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-800b-a2d5-d55144d4a67f",
+    "created_time": "2025-03-12T18:03:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-04",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Se\u00f1or Pesado",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Se\u00f1or Pesado",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-31",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-26",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280800ba2d5d55144d4a67f",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280800ba2d5d55144d4a67f"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80d7-8c12-e486c1fcd41b",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-04",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Acting/Expresiones",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Acting/Expresiones",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Amigos de Rumi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Amigos de Rumi",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-31",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-26",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080d78c12e486c1fcd41b",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080d78c12e486c1fcd41b"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8060-af5c-ce6d42648bc4",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-02",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-28",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808060af5cce6d42648bc4",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808060af5cce6d42648bc4"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8052-9228-cdd194655fed",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-02",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-28",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-25",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080529228cdd194655fed",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080529228cdd194655fed"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80a2-844f-ec0c4c9953c9",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": null
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final ",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RUMI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RUMI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-24",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080a2844fec0c4c9953c9",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080a2844fec0c4c9953c9"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80e6-b561-faf72e6b3006",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": null
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final ",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ARI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ARI",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-24",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080e6b561faf72e6b3006",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080e6b561faf72e6b3006"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80c6-934e-faba6c3142af",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-04-02",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Propuesta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Propuesta",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cuy",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cuy",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-28",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-24",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080c6934efaba6c3142af",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080c6934efaba6c3142af"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8089-ab97-ee217e68efd6",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-31",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Traje Perro Rumi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Traje Perro Rumi",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-26",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-24",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808089ab97ee217e68efd6",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808089ab97ee217e68efd6"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-801e-9db7-fa9eec1485a6",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cocineros (4)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cocineros (4)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280801e9db7fa9eec1485a6",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280801e9db7fa9eec1485a6"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80c3-a190-fb4552d1a4f9",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-26",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Se\u00f1or Pesado",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Se\u00f1or Pesado",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-20",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080c3a190fb4552d1a4f9",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080c3a190fb4552d1a4f9"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80e4-9627-e0756f8e76c3",
+    "created_time": "2025-03-12T18:00:00.000Z",
+    "last_edited_time": "2025-03-12T18:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-26",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tornamesa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tornamesa",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Amigos de Rumi",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Amigos de Rumi",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-20",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080e49627e0756f8e76c3",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080e49627e0756f8e76c3"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80e9-8cc1-febe83e68f6c",
+    "created_time": "2025-03-12T16:46:00.000Z",
+    "last_edited_time": "2025-03-12T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Primos de Ari (2)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Primos de Ari (2)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-13",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080e98cc1febe83e68f6c",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080e98cc1febe83e68f6c"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80cf-8c03-e79fe1186f21",
+    "created_time": "2025-03-12T16:46:00.000Z",
+    "last_edited_time": "2025-03-12T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cocineros (4)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cocineros (4)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": null
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080cf8c03e79fe1186f21",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080cf8c03e79fe1186f21"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8020-85b6-c0f3281ef062",
+    "created_time": "2025-03-12T16:45:00.000Z",
+    "last_edited_time": "2025-03-12T16:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "T\u00edas Ari (3)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "T\u00edas Ari (3)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-13",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca2280802085b6c0f3281ef062",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca2280802085b6c0f3281ef062"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8014-b08c-c8216a9dfbde",
+    "created_time": "2025-03-12T16:45:00.000Z",
+    "last_edited_time": "2025-03-12T22:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dise\u00f1o final",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dise\u00f1o final",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pap\u00e1 de Ari",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pap\u00e1 de Ari",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-18",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-13",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808014b08cc8216a9dfbde",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808014b08cc8216a9dfbde"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8016-b367-d34f7b7e2036",
+    "created_time": "2025-03-12T16:44:00.000Z",
+    "last_edited_time": "2025-03-12T16:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Propuesta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Propuesta",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Primos de Ari (2)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Primos de Ari (2)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808016b367d34f7b7e2036",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808016b367d34f7b7e2036"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-8083-ba4f-e1e27e515c09",
+    "created_time": "2025-03-12T16:43:00.000Z",
+    "last_edited_time": "2025-03-12T16:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Propuesta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Propuesta",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cocineros (4)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cocineros (4)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca22808083ba4fe1e27e515c09",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca22808083ba4fe1e27e515c09"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80e3-bdef-c3759c1661c7",
+    "created_time": "2025-03-12T16:43:00.000Z",
+    "last_edited_time": "2025-03-12T16:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Propuesta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Propuesta",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "T\u00edas Ari (3)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "T\u00edas Ari (3)",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080e3bdefc3759c1661c7",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080e3bdefc3759c1661c7"
+  },
+  {
+    "object": "page",
+    "id": "1b4f93ca-2280-80d2-918e-fc24923dde48",
+    "created_time": "2025-03-12T16:32:00.000Z",
+    "last_edited_time": "2025-03-12T16:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "b5c490f1-0854-403f-b5d2-4186bfb554b7"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1b4f93ca-2280-8012-8009-fdeba2734fac"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Due Date": {
+        "id": "%3FWZ%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-12",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task": {
+        "id": "S%3AQ%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Propuesta",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Propuesta",
+            "href": null
+          }
+        ]
+      },
+      "Asset": {
+        "id": "%5BPsY",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pap\u00e1 de Ari",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pap\u00e1 de Ari",
+            "href": null
+          }
+        ]
+      },
+      "Correction Date": {
+        "id": "aAUg",
+        "type": "date",
+        "date": {
+          "start": "2025-03-07",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Start Date": {
+        "id": "%7Dhd%3C",
+        "type": "date",
+        "date": {
+          "start": "2025-03-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "User": {
+        "id": "title",
+        "type": "title",
+        "title": []
+      }
+    },
+    "url": "https://www.notion.so/1b4f93ca228080d2918efc24923dde48",
+    "public_url": "https://lake-cicada-7f1.notion.site/1b4f93ca228080d2918efc24923dde48"
+  }
+]
