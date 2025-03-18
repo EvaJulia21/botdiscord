@@ -12,7 +12,7 @@ import traceback
 TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 NOTION_TOKEN = "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"
 NOTION_DATABASE_ID = "1b4f93ca228080128009fdeba2734fac"
-DEFAULT_CHANNEL_ID = 1053793098087534673  # Default channel ID
+DEFAULT_CHANNEL_ID = 1349793940894777454  # Default channel ID
 
 # Set GMT-5 timezone (Peru Time)
 PERU_TZ = pytz.timezone("America/Lima")
